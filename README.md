@@ -15,3 +15,11 @@ export --help
 ```bash
 export <name> "<executable path>"
 ```
+
+---
+
+## License
+
+Copyright 2026 Amr Mohamed Hasanain.
+
+Licensed under the [Apache License 2.0](LICENSE).
